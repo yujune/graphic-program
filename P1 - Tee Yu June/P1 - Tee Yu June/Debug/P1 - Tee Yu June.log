@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\asus\source\repos\p1 - tee yu june\p1 - tee yu june\source.cpp(239): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\asus\source\repos\p1 - tee yu june\p1 - tee yu june\source.cpp(276): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\asus\source\repos\p1 - tee yu june\p1 - tee yu june\source.cpp(303): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\asus\source\repos\p1 - tee yu june\p1 - tee yu june\source.cpp(464): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  P1 - Tee Yu June.vcxproj -> C:\Users\ASUS\source\repos\P1 - Tee Yu June\Debug\P1 - Tee Yu June.exe
