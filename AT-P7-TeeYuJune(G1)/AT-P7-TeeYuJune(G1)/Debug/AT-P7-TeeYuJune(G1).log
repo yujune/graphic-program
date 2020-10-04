@@ -1,0 +1,17 @@
+﻿  Source.cpp
+c:\users\asus\source\repos\at-p7-teeyujune(g1)\at-p7-teeyujune(g1)\source.cpp(29): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\asus\source\repos\at-p7-teeyujune(g1)\at-p7-teeyujune(g1)\source.cpp(30): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\asus\source\repos\at-p7-teeyujune(g1)\at-p7-teeyujune(g1)\source.cpp(31): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\asus\source\repos\at-p7-teeyujune(g1)\at-p7-teeyujune(g1)\source.cpp(189): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\asus\source\repos\at-p7-teeyujune(g1)\at-p7-teeyujune(g1)\source.cpp(231): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\asus\source\repos\at-p7-teeyujune(g1)\at-p7-teeyujune(g1)\source.cpp(252): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\asus\source\repos\at-p7-teeyujune(g1)\at-p7-teeyujune(g1)\source.cpp(304): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\asus\source\repos\at-p7-teeyujune(g1)\at-p7-teeyujune(g1)\source.cpp(354): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\asus\source\repos\at-p7-teeyujune(g1)\at-p7-teeyujune(g1)\source.cpp(363): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\asus\source\repos\at-p7-teeyujune(g1)\at-p7-teeyujune(g1)\source.cpp(365): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\asus\source\repos\at-p7-teeyujune(g1)\at-p7-teeyujune(g1)\source.cpp(373): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\asus\source\repos\at-p7-teeyujune(g1)\at-p7-teeyujune(g1)\source.cpp(375): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\asus\source\repos\at-p7-teeyujune(g1)\at-p7-teeyujune(g1)\source.cpp(398): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\asus\source\repos\at-p7-teeyujune(g1)\at-p7-teeyujune(g1)\source.cpp(423): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\asus\source\repos\at-p7-teeyujune(g1)\at-p7-teeyujune(g1)\source.cpp(530): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  AT-P7-TeeYuJune(G1).vcxproj -> C:\Users\ASUS\source\repos\AT-P7-TeeYuJune(G1)\Debug\AT-P7-TeeYuJune(G1).exe

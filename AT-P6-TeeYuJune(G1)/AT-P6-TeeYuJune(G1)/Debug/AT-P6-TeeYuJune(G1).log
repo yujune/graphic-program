@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\asus\source\repos\at-p6-teeyujune(g1)\at-p6-teeyujune(g1)\source.cpp(20): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\asus\source\repos\at-p6-teeyujune(g1)\at-p6-teeyujune(g1)\source.cpp(21): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\asus\source\repos\at-p6-teeyujune(g1)\at-p6-teeyujune(g1)\source.cpp(22): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\asus\source\repos\at-p6-teeyujune(g1)\at-p6-teeyujune(g1)\source.cpp(190): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\asus\source\repos\at-p6-teeyujune(g1)\at-p6-teeyujune(g1)\source.cpp(210): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  AT-P6-TeeYuJune(G1).vcxproj -> C:\Users\ASUS\source\repos\AT-P6-TeeYuJune(G1)\Debug\AT-P6-TeeYuJune(G1).exe
