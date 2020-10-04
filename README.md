@@ -1,7 +1,7 @@
 # graphic-program
 
 ## Luffy
-![luffy](https://github.com/yujune/graphic-program/blob/main/screenshot/luffy.png)
+![luffy](https://github.com/yujune/graphic-program/blob/main/screenshot/luffy.PNG)
 
 ## Farm
 ![luffy](https://github.com/yujune/graphic-program/blob/main/screenshot/farm.gif)
